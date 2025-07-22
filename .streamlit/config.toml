@@ -1,2 +1,4 @@
-"[theme]" 
-"primaryColor = \"#F63366\"" 
+[theme]
+base="light"
+primaryColor="#F63366"
+backgroundColor="#FFFFFF"
